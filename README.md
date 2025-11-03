@@ -10,8 +10,10 @@ List of things
 - **Thing 2 (but bold)**
 - *Thing 3 (but italic)*
 
-[ ] Task
-[x] Task done
+Todo list
+1. Task 1
+2. Task 2
+3. Task 3
 
 Wow!!!
 
